@@ -1,4 +1,4 @@
-const Rule = require('../models/Rule');
+const Rule = require('../models/rule');
 
 // Function to convert rule string to AST
 const createRule = (ruleString) => {
