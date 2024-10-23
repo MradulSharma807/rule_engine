@@ -22,13 +22,13 @@ This project implements a simple 3-tier rule engine application to determine use
 
 ### Installation
 
-1. Clone the repository:
+-1. Clone the repository:
    git clone https://github.com/MradulSharma807/rule_engine.git
    cd rule_engine
-2.Navigate to the backend directory and install dependencies:
+-2.Navigate to the backend directory and install dependencies:
     cd backend
     npm install
-3.Navigate to the frontend directory and install dependencies:
+-3.Navigate to the frontend directory and install dependencies:
     cd ../frontend
     npm install
    
@@ -37,10 +37,10 @@ Ensure you have MongoDB running. Update the MongoDB connection string in the ser
 Set up any necessary environment variables (if applicable).
 
 Running the Application
-1.Start the backend server:
+-1.Start the backend server:
    cd backend
    node server.js
-2.In another terminal, start the frontend application:
+-2.In another terminal, start the frontend application:
    cd frontend
    npm start
 
